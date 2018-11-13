@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "author": "",
+    "createdOn": "",
+    "lastUpdatedOn": "",
+    "summary": "",
+    "content": "",
+    "active": true,
+    "categories": [
+      "Software Development",
+      "Web Design"
+    ],
+    "tags": [
+      "html",
+      "css",
+      "JavaScript"
+    ]
+  }
+]
